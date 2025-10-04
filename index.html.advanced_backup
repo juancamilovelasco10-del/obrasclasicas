@@ -1,0 +1,975 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"/>
+<title>Pequenos Artistas II – Foco Educativo</title>
+<meta content="max-image-preview:large" name="robots">
+<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+<link href="https://focoeducativo.com.br/feed/" rel="alternate" title="Feed para Foco Educativo »" type="application/rss+xml"/>
+<link href="https://focoeducativo.com.br/comments/feed/" rel="alternate" title="Feed de comentários para Foco Educativo »" type="application/rss+xml"/>
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/focoeducativo.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.3"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link href="style_0.css" id="hello-elementor-css" media="all" rel="stylesheet"/>
+<link href="style_1.css" id="hello-elementor-theme-style-css" media="all" rel="stylesheet"/>
+<link href="style_2.css" id="hello-elementor-header-footer-css" media="all" rel="stylesheet"/>
+<link href="style_3.css" id="elementor-frontend-css" media="all" rel="stylesheet"/>
+<link href="style_4.css" id="elementor-post-10-css" media="all" rel="stylesheet"/>
+<link href="https://focoeducativo.com.br/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.43.0" id="elementor-icons-css" media="all" rel="stylesheet"/>
+<link href="https://focoeducativo.com.br/wp-content/uploads/elementor/css/custom-pro-frontend.min.css?ver=1758892831" id="elementor-pro-css" media="all" rel="stylesheet"/>
+<link href="https://focoeducativo.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.31.2" id="font-awesome-5-all-css" media="all" rel="stylesheet"/>
+<link href="https://focoeducativo.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.31.2" id="font-awesome-4-shim-css" media="all" rel="stylesheet"/>
+<link href="https://focoeducativo.com.br/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.31.2" id="widget-image-css" media="all" rel="stylesheet"/>
+<link href="https://focoeducativo.com.br/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.31.2" id="widget-heading-css" media="all" rel="stylesheet"/>
+<link href="https://focoeducativo.com.br/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5" id="swiper-css" media="all" rel="stylesheet"/>
+<link href="https://focoeducativo.com.br/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.31.2" id="e-swiper-css" media="all" rel="stylesheet"/>
+<link href="https://focoeducativo.com.br/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=3.31.2" id="widget-image-carousel-css" media="all" rel="stylesheet"/>
+<link href="https://focoeducativo.com.br/wp-content/plugins/elementor/assets/css/conditionals/shapes.min.css?ver=3.31.2" id="e-shapes-css" media="all" rel="stylesheet"/>
+<link href="https://focoeducativo.com.br/wp-content/uploads/elementor/css/custom-widget-image-box.min.css?ver=1758892831" id="widget-image-box-css" media="all" rel="stylesheet"/>
+<link href="https://focoeducativo.com.br/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1758892831" id="widget-icon-list-css" media="all" rel="stylesheet"/>
+<link href="https://focoeducativo.com.br/wp-content/plugins/elementor/assets/css/widget-menu-anchor.min.css?ver=3.31.2" id="widget-menu-anchor-css" media="all" rel="stylesheet"/>
+<link href="https://focoeducativo.com.br/wp-content/uploads/elementor/css/custom-widget-toggle.min.css?ver=1758892831" id="widget-toggle-css" media="all" rel="stylesheet"/>
+<link href="https://focoeducativo.com.br/wp-content/uploads/elementor/css/post-4569.css?ver=1759460631" id="elementor-post-4569-css" media="all" rel="stylesheet"/>
+<link href="https://focoeducativo.com.br/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1756132056" id="elementor-gf-local-montserrat-css" media="all" rel="stylesheet"/>
+<link href="https://focoeducativo.com.br/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1756132029" id="elementor-gf-local-poppins-css" media="all" rel="stylesheet"/>
+<link href="https://focoeducativo.com.br/wp-content/uploads/elementor/google-fonts/css/palanquin.css?ver=1756132062" id="elementor-gf-local-palanquin-css" media="all" rel="stylesheet"/>
+<link href="https://focoeducativo.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3" id="elementor-icons-shared-0-css" media="all" rel="stylesheet"/>
+<link href="https://focoeducativo.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3" id="elementor-icons-fa-regular-css" media="all" rel="stylesheet"/>
+<link href="https://focoeducativo.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3" id="elementor-icons-fa-solid-css" media="all" rel="stylesheet"/>
+<script id="font-awesome-4-shim-js" src="https://focoeducativo.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.31.2"></script>
+<script id="jquery-core-js" src="https://focoeducativo.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://focoeducativo.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<link href="https://focoeducativo.com.br/wp-json/" rel="https://api.w.org/"/><link href="https://focoeducativo.com.br/wp-json/wp/v2/pages/4569" rel="alternate" title="JSON" type="application/json"/><link href="https://focoeducativo.com.br/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<meta content="WordPress 6.8.3" name="generator"/>
+<link href="https://focoeducativo.com.br/pequenos-artistas-ii/" rel="canonical"/>
+<link href="https://focoeducativo.com.br/?p=4569" rel="shortlink"/>
+<link href="https://focoeducativo.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffocoeducativo.com.br%2Fpequenos-artistas-ii%2F" rel="alternate" title="oEmbed (JSON)" type="application/json+oembed"/>
+<link href="https://focoeducativo.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffocoeducativo.com.br%2Fpequenos-artistas-ii%2F&amp;format=xml" rel="alternate" title="oEmbed (XML)" type="text/xml+oembed"/>
+<meta content="Elementor 3.31.2; features: additional_custom_breakpoints, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-auto" name="generator"/>
+<script async="" data-utmify-plus-signal="" data-utmify-prevent-subids="" defer="" src="https://cdn.utmify.com.br/scripts/utms/latest.js"></script>
+<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+<meta content="#F4F4F4" name="theme-color"/>
+<link href="https://focoeducativo.com.br/wp-content/uploads/2024/01/FAVICON-150x150.png" rel="icon" sizes="32x32"/>
+<link href="https://focoeducativo.com.br/wp-content/uploads/2024/01/FAVICON-300x300.png" rel="icon" sizes="192x192"/>
+<link href="https://focoeducativo.com.br/wp-content/uploads/2024/01/FAVICON-300x300.png" rel="apple-touch-icon"/>
+<meta content="https://focoeducativo.com.br/wp-content/uploads/2024/01/FAVICON-300x300.png" name="msapplication-TileImage">
+<meta content="width=device-width, initial-scale=1.0, viewport-fit=cover" name="viewport"/></meta></meta></head>
+<body class="wp-singular page-template-default page page-id-4569 wp-theme-hello-elementor elementor-default elementor-template-canvas elementor-kit-10 elementor-page elementor-page-4569">
+<div class="elementor elementor-4569" data-elementor-id="4569" data-elementor-type="wp-page">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-5565eb2a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="5565eb2a" data-settings='{"background_background":"classic","shape_divider_bottom":"curve","shape_divider_bottom_negative":"yes"}'>
+<div class="elementor-background-overlay"></div>
+<div aria-hidden="true" class="elementor-shape elementor-shape-bottom" data-negative="true">
+<svg preserveaspectratio="none" viewbox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg">
+<path class="elementor-shape-fill" d="M500,97C126.7,96.3,0.8,19.8,0,0v100l1000,0V1C1000,19.4,873.3,97.8,500,97z"></path>
+</svg> </div>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1c40c5b8" data-element_type="column" data-id="1c40c5b8">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-11151f22 elementor-widget elementor-widget-html" data-element_type="widget" data-id="11151f22" data-widget_type="html.default">
+<div class="elementor-widget-container">
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '481810051289906');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" src="image_0.jpg" style="display:none" width="1"/></noscript>
+<!-- End Meta Pixel Code --> </div>
+</div>
+<div class="elementor-element elementor-element-24f55dfd elementor-widget elementor-widget-html" data-element_type="widget" data-id="24f55dfd" data-widget_type="html.default">
+<div class="elementor-widget-container">
+<div class="barra-topo">
+  🔥 <strong>OFERTA LIMITADA</strong> | <a href="#inscricao">SOMENTE HOJE!</a>
+</div>
+<style>
+  .barra-topo {
+    background-color: #DD1111;
+    color: white;
+    font-weight: 600;
+    font-size: 15px;
+    padding: 10px 0;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+    font-family: 'Arial', sans-serif;
+  }
+
+  .barra-topo a {
+    color: white;
+  }
+
+  .barra-topo a:hover {
+    color: #ffe2e2;
+  }
+</style>
+</div>
+</div>
+<div class="elementor-element elementor-element-566a8e6d elementor-widget elementor-widget-image" data-element_type="widget" data-id="566a8e6d" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-full size-full wp-image-2980" decoding="async" fetchpriority="high" height="250" sizes="(max-width: 483px) 100vw, 483px" src="image_1.webp" srcset="https://focoeducativo.com.br/wp-content/uploads/2025/03/AVALIACOES-PESSOAS-ICONES-copiar.webp 483w, https://focoeducativo.com.br/wp-content/uploads/2025/03/AVALIACOES-PESSOAS-ICONES-copiar-300x155.webp 300w" width="483"/> </div>
+</div>
+<div class="elementor-element elementor-element-451f7b8b elementor-widget elementor-widget-heading" data-element_type="widget" data-id="451f7b8b" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><span style="color:#ed6527;font-weight:700">60 OBRAS CLÁSSICAS</span> — ensine arte e cultura de forma divertida e criativa para as crianças
+
+
+
+</h2> </div>
+</div>
+<div class="elementor-element elementor-element-290a39ad elementor-pagination-position-inside elementor-arrows-position-inside elementor-widget elementor-widget-image-carousel" data-element_type="widget" data-id="290a39ad" data-settings='{"autoplay_speed":3000,"speed":300,"navigation":"both","autoplay":"yes","pause_on_hover":"yes","pause_on_interaction":"yes","infinite":"yes"}' data-widget_type="image-carousel.default">
+<div class="elementor-widget-container">
+<div aria-label="Carrossel de imagens" aria-roledescription="carousel" class="elementor-image-carousel-wrapper swiper" dir="ltr" role="region">
+<div aria-live="off" class="elementor-image-carousel swiper-wrapper">
+<div aria-label="1 de 7" aria-roledescription="slide" class="swiper-slide" role="group"><figure class="swiper-slide-inner"><img alt="PEQUENOS ARTISTAS CAPA copiar" class="swiper-slide-image" decoding="async" src="image_2.webp"/></figure></div><div aria-label="2 de 7" aria-roledescription="slide" class="swiper-slide" role="group"><figure class="swiper-slide-inner"><img alt="PÁG 05 - copiar" class="swiper-slide-image" decoding="async" src="image_3.webp"/></figure></div><div aria-label="3 de 7" aria-roledescription="slide" class="swiper-slide" role="group"><figure class="swiper-slide-inner"><img alt="PÁG 06 - copiar" class="swiper-slide-image" decoding="async" src="image_4.webp"/></figure></div><div aria-label="4 de 7" aria-roledescription="slide" class="swiper-slide" role="group"><figure class="swiper-slide-inner"><img alt="PÁG 07 - copiar" class="swiper-slide-image" decoding="async" src="image_5.webp"/></figure></div><div aria-label="5 de 7" aria-roledescription="slide" class="swiper-slide" role="group"><figure class="swiper-slide-inner"><img alt="PÁG 08 - copiar" class="swiper-slide-image" decoding="async" src="image_6.webp"/></figure></div><div aria-label="6 de 7" aria-roledescription="slide" class="swiper-slide" role="group"><figure class="swiper-slide-inner"><img alt="PÁG 09 - copiar" class="swiper-slide-image" decoding="async" src="image_7.webp"/></figure></div><div aria-label="7 de 7" aria-roledescription="slide" class="swiper-slide" role="group"><figure class="swiper-slide-inner"><img alt="CADEADO" class="swiper-slide-image" decoding="async" src="image_8.webp"/></figure></div> </div>
+<div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0">
+<i aria-hidden="true" class="eicon-chevron-left"></i> </div>
+<div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0">
+<i aria-hidden="true" class="eicon-chevron-right"></i> </div>
+<div class="swiper-pagination"></div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-35562ae0 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="35562ae0" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Uma seleção única de obras famosas em versão infantil para colorir. Transforme o tempo em família ou em sala de aula em experiências de conhecimento e diversão — <span style="color:#ed6527;font-weight:700">enquanto as crianças descobrem os maiores artistas da história</span>.</h2> </div>
+</div>
+<div class="elementor-element elementor-element-43a619da elementor-widget elementor-widget-heading" data-element_type="widget" data-id="43a619da" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Perfeito para <span style="color:#ed6527;font-weight:700">CRIANÇAS DE 03 A 12 ANOS</span> de idade (Material digital em PDF).</h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-468237a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="468237a" data-settings='{"background_background":"classic"}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-54de607f" data-element_type="column" data-id="54de607f">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-ec7fd5b elementor-widget elementor-widget-heading" data-element_type="widget" data-id="ec7fd5b" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">O que dizem os mais de 3100 clientes que compraram:
+<br/>⭐️⭐️⭐️⭐️⭐️</h2> </div>
+</div>
+<div class="elementor-element elementor-element-7511c9a1 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="7511c9a1" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">+ 600 avaliações positivas:</h2> </div>
+</div>
+<div class="elementor-element elementor-element-2c787f71 elementor-widget elementor-widget-image" data-element_type="widget" data-id="2c787f71" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-large size-large wp-image-4578" decoding="async" height="203" sizes="(max-width: 800px) 100vw, 800px" src="image_9.png" srcset="https://focoeducativo.com.br/wp-content/uploads/2025/09/DEPOIMENTOS-CHECKOUT.png 1024w, https://focoeducativo.com.br/wp-content/uploads/2025/09/DEPOIMENTOS-CHECKOUT-300x76.png 300w, https://focoeducativo.com.br/wp-content/uploads/2025/09/DEPOIMENTOS-CHECKOUT-768x195.png 768w" width="800"/> </div>
+</div>
+<div class="elementor-element elementor-element-71806f78 elementor-widget elementor-widget-image" data-element_type="widget" data-id="71806f78" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-large size-large wp-image-4583" decoding="async" height="203" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" src="https://focoeducativo.com.br/wp-content/uploads/2025/09/DEPOIMENTOS-CHECKOUT-5.png" srcset="https://focoeducativo.com.br/wp-content/uploads/2025/09/DEPOIMENTOS-CHECKOUT-5.png 1024w, https://focoeducativo.com.br/wp-content/uploads/2025/09/DEPOIMENTOS-CHECKOUT-5-300x76.png 300w, https://focoeducativo.com.br/wp-content/uploads/2025/09/DEPOIMENTOS-CHECKOUT-5-768x195.png 768w" width="800"/> </div>
+</div>
+<div class="elementor-element elementor-element-1ec733a6 elementor-widget elementor-widget-image" data-element_type="widget" data-id="1ec733a6" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-large size-large wp-image-4581" decoding="async" height="203" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" src="https://focoeducativo.com.br/wp-content/uploads/2025/09/DEPOIMENTOS-CHECKOUT-3.png" srcset="https://focoeducativo.com.br/wp-content/uploads/2025/09/DEPOIMENTOS-CHECKOUT-3.png 1024w, https://focoeducativo.com.br/wp-content/uploads/2025/09/DEPOIMENTOS-CHECKOUT-3-300x76.png 300w, https://focoeducativo.com.br/wp-content/uploads/2025/09/DEPOIMENTOS-CHECKOUT-3-768x195.png 768w" width="800"/> </div>
+</div>
+<div class="elementor-element elementor-element-26a59fa2 elementor-widget elementor-widget-image" data-element_type="widget" data-id="26a59fa2" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-large size-large wp-image-4580" decoding="async" height="203" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" src="https://focoeducativo.com.br/wp-content/uploads/2025/09/DEPOIMENTOS-CHECKOUT-2.png" srcset="https://focoeducativo.com.br/wp-content/uploads/2025/09/DEPOIMENTOS-CHECKOUT-2.png 1024w, https://focoeducativo.com.br/wp-content/uploads/2025/09/DEPOIMENTOS-CHECKOUT-2-300x76.png 300w, https://focoeducativo.com.br/wp-content/uploads/2025/09/DEPOIMENTOS-CHECKOUT-2-768x195.png 768w" width="800"/> </div>
+</div>
+<div class="elementor-element elementor-element-71a4b0d9 elementor-widget elementor-widget-image" data-element_type="widget" data-id="71a4b0d9" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="DEPOIMENTOS---CHECKOUT" decoding="async" loading="lazy" src="https://focoeducativo.com.br/wp-content/uploads/2025/09/DEPOIMENTOS-CHECKOUT.png" title="DEPOIMENTOS—CHECKOUT"/> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-54f8e6c5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="54f8e6c5" data-settings='{"background_background":"classic"}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1788a032" data-element_type="column" data-id="1788a032">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-31f95984 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="31f95984" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Veja algumas das obras clássicas incríveis divididas por estilos:</h2> </div>
+</div>
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-2cd36042 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="2cd36042">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-23762523" data-element_type="column" data-id="23762523" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-7d65ee2d elementor-widget elementor-widget-image" data-element_type="widget" data-id="7d65ee2d" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-large size-large wp-image-4156" decoding="async" height="508" loading="lazy" sizes="(max-width: 636px) 100vw, 636px" src="https://focoeducativo.com.br/wp-content/uploads/2025/08/TIPOS-DE-OBRAS-1.webp" srcset="https://focoeducativo.com.br/wp-content/uploads/2025/08/TIPOS-DE-OBRAS-1.webp 636w, https://focoeducativo.com.br/wp-content/uploads/2025/08/TIPOS-DE-OBRAS-1-300x240.webp 300w" width="636"/> </div>
+</div>
+<div class="elementor-element elementor-element-710cac48 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="710cac48" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Retratos que Marcaram a História</h2> </div>
+</div>
+<div class="elementor-element elementor-element-46b56cee elementor-widget elementor-widget-heading" data-element_type="widget" data-id="46b56cee" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Obras que mostram pessoas importantes ou misteriosas, com grande expressão ou simbolismo.</h2> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-44639421" data-element_type="column" data-id="44639421" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-20e9daf4 elementor-widget elementor-widget-image" data-element_type="widget" data-id="20e9daf4" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-large size-large wp-image-4157" decoding="async" height="508" loading="lazy" sizes="(max-width: 636px) 100vw, 636px" src="https://focoeducativo.com.br/wp-content/uploads/2025/08/TIPOS-DE-OBRAS-2.webp" srcset="https://focoeducativo.com.br/wp-content/uploads/2025/08/TIPOS-DE-OBRAS-2.webp 636w, https://focoeducativo.com.br/wp-content/uploads/2025/08/TIPOS-DE-OBRAS-2-300x240.webp 300w" width="636"/> </div>
+</div>
+<div class="elementor-element elementor-element-50c38f93 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="50c38f93" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Céus, Sonhos e Imaginação</h2> </div>
+</div>
+<div class="elementor-element elementor-element-2fa75d85 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="2fa75d85" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Obras que exploram o mundo interno, o surrealismo, ou cenas poéticas.</h2> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-76464e6d" data-element_type="column" data-id="76464e6d" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-66a1c2dc elementor-widget elementor-widget-image" data-element_type="widget" data-id="66a1c2dc" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-large size-large wp-image-4158" decoding="async" height="508" loading="lazy" sizes="(max-width: 636px) 100vw, 636px" src="https://focoeducativo.com.br/wp-content/uploads/2025/08/TIPOS-DE-OBRAS-3.webp" srcset="https://focoeducativo.com.br/wp-content/uploads/2025/08/TIPOS-DE-OBRAS-3.webp 636w, https://focoeducativo.com.br/wp-content/uploads/2025/08/TIPOS-DE-OBRAS-3-300x240.webp 300w" width="636"/> </div>
+</div>
+<div class="elementor-element elementor-element-2861edac elementor-widget elementor-widget-heading" data-element_type="widget" data-id="2861edac" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Religião, Mitos e Espiritualidade</h2> </div>
+</div>
+<div class="elementor-element elementor-element-38669f2a elementor-widget elementor-widget-heading" data-element_type="widget" data-id="38669f2a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Obras com temas bíblicos, mitológicos ou espirituais.</h2> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-55ada854" data-element_type="column" data-id="55ada854" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-394b9a50 elementor-widget elementor-widget-image" data-element_type="widget" data-id="394b9a50" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-large size-large wp-image-4159" decoding="async" height="508" loading="lazy" sizes="(max-width: 636px) 100vw, 636px" src="https://focoeducativo.com.br/wp-content/uploads/2025/08/TIPOS-DE-OBRAS-4.webp" srcset="https://focoeducativo.com.br/wp-content/uploads/2025/08/TIPOS-DE-OBRAS-4.webp 636w, https://focoeducativo.com.br/wp-content/uploads/2025/08/TIPOS-DE-OBRAS-4-300x240.webp 300w" width="636"/> </div>
+</div>
+<div class="elementor-element elementor-element-4d66186d elementor-widget elementor-widget-heading" data-element_type="widget" data-id="4d66186d" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Cenas do Mundo e da Natureza</h2> </div>
+</div>
+<div class="elementor-element elementor-element-4d90caab elementor-widget elementor-widget-heading" data-element_type="widget" data-id="4d90caab" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Obras com paisagens, natureza morta ou observação do cotidiano.</h2> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-295e4874" data-element_type="column" data-id="295e4874" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-53d92743 elementor-widget elementor-widget-image" data-element_type="widget" data-id="53d92743" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-large size-large wp-image-4160" decoding="async" height="508" loading="lazy" sizes="(max-width: 636px) 100vw, 636px" src="https://focoeducativo.com.br/wp-content/uploads/2025/08/TIPOS-DE-OBRAS-5.webp" srcset="https://focoeducativo.com.br/wp-content/uploads/2025/08/TIPOS-DE-OBRAS-5.webp 636w, https://focoeducativo.com.br/wp-content/uploads/2025/08/TIPOS-DE-OBRAS-5-300x240.webp 300w" width="636"/> </div>
+</div>
+<div class="elementor-element elementor-element-480cd2ea elementor-widget elementor-widget-heading" data-element_type="widget" data-id="480cd2ea" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Obras que Contam Histórias</h2> </div>
+</div>
+<div class="elementor-element elementor-element-4ee2b816 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="4ee2b816" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Obras com narrativa visual forte — cenas de guerra, encontros, danças, etc.</h2> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-784cb94e" data-element_type="column" data-id="784cb94e" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-3cc1da18 elementor-widget elementor-widget-image" data-element_type="widget" data-id="3cc1da18" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-large size-large wp-image-4161" decoding="async" height="508" loading="lazy" sizes="(max-width: 636px) 100vw, 636px" src="https://focoeducativo.com.br/wp-content/uploads/2025/08/TIPOS-DE-OBRAS-6.webp" srcset="https://focoeducativo.com.br/wp-content/uploads/2025/08/TIPOS-DE-OBRAS-6.webp 636w, https://focoeducativo.com.br/wp-content/uploads/2025/08/TIPOS-DE-OBRAS-6-300x240.webp 300w" width="636"/> </div>
+</div>
+<div class="elementor-element elementor-element-2b0dd5c7 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="2b0dd5c7" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Movimento, Corpos e Emoção</h2> </div>
+</div>
+<div class="elementor-element elementor-element-360ecc97 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="360ecc97" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Obras com foco em dança, corpo humano, formas geométricas ou expressão visual.</h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-2a4795d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="2a4795d" data-settings='{"background_background":"classic"}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-37b83a08" data-element_type="column" data-id="37b83a08" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-5ae262ef elementor-widget elementor-widget-heading" data-element_type="widget" data-id="5ae262ef" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Veja um exemplo:</h2> </div>
+</div>
+<div class="elementor-element elementor-element-923d6d4 elementor-widget elementor-widget-image" data-element_type="widget" data-id="923d6d4" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-large size-large wp-image-3795" decoding="async" height="1024" loading="lazy" sizes="(max-width: 641px) 100vw, 641px" src="https://focoeducativo.com.br/wp-content/uploads/2025/06/BANNER-ANTES-E-DEPOIS-copiar-641x1024.webp" srcset="https://focoeducativo.com.br/wp-content/uploads/2025/06/BANNER-ANTES-E-DEPOIS-copiar-641x1024.webp 641w, https://focoeducativo.com.br/wp-content/uploads/2025/06/BANNER-ANTES-E-DEPOIS-copiar-188x300.webp 188w, https://focoeducativo.com.br/wp-content/uploads/2025/06/BANNER-ANTES-E-DEPOIS-copiar.webp 736w" width="641"/> </div>
+</div>
+<div class="elementor-element elementor-element-1755039c elementor-widget elementor-widget-image" data-element_type="widget" data-id="1755039c" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-large size-large wp-image-2424" decoding="async" height="406" loading="lazy" sizes="(max-width: 609px) 100vw, 609px" src="https://focoeducativo.com.br/wp-content/uploads/2024/09/depoimento-9.webp" srcset="https://focoeducativo.com.br/wp-content/uploads/2024/09/depoimento-9.webp 609w, https://focoeducativo.com.br/wp-content/uploads/2024/09/depoimento-9-300x200.webp 300w" width="609"/> </div>
+</div>
+<div class="elementor-element elementor-element-7fa1c069 elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button" data-element_type="widget" data-id="7fa1c069" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-sm" href="https://pay.hotmart.com/F100220421H?checkoutMode=10">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">ACESSAR AGORA!</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-14212ac2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="14212ac2" data-settings='{"background_background":"classic"}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1062f216" data-element_type="column" data-id="1062f216" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-61a3975b elementor-widget elementor-widget-heading" data-element_type="widget" data-id="61a3975b" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">São mais de <span style="color:#ed6527;font-weight:700">60 desenhos exclusivos para colorir, explorar e se encantar</span> com os maiores nomes da história da arte — como Van Gogh, Da Vinci, Picasso, Monet, e muito mais.<br/>
+</h2> </div>
+</div>
+<div class="elementor-element elementor-element-477227c5 elementor-widget elementor-widget-image" data-element_type="widget" data-id="477227c5" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-large size-large wp-image-3808" decoding="async" height="607" loading="lazy" sizes="(max-width: 736px) 100vw, 736px" src="https://focoeducativo.com.br/wp-content/uploads/2025/06/BANNER-LIVRO.webp" srcset="https://focoeducativo.com.br/wp-content/uploads/2025/06/BANNER-LIVRO.webp 736w, https://focoeducativo.com.br/wp-content/uploads/2025/06/BANNER-LIVRO-300x247.webp 300w" width="736"/> </div>
+</div>
+<div class="elementor-element elementor-element-8d6a5e3 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="8d6a5e3" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Ao longo do material, você encontrará versões infantis de <span style="color:#ed6527;font-weight:700">OBRAS-PRIMAS</span> que representam:<br/><br/>
+<img alt="🖼️" class="emoji" decoding="async" role="img" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f5bc.svg"/> Pinturas icônicas do Renascimento<br/><br/>
+<img alt="🌌" class="emoji" decoding="async" role="img" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f30c.svg"/> Obras emocionantes do Impressionismo e Surrealismo<br/><br/>
+<img alt="👩‍🎨" class="emoji" decoding="async" role="img" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f469-200d-1f3a8.svg"/> Artistas revolucionários de diferentes países e séculos
+
+
+</h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-59f39a87 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="59f39a87" data-settings='{"background_background":"classic"}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5c15be9e" data-element_type="column" data-id="5c15be9e">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-63498a79 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="63498a79" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Confira as crianças colorindo:</h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-be331cd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="be331cd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2adea09e" data-element_type="column" data-id="2adea09e">
+<div class="elementor-widget-wrap elementor-element-populated">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-72ee1e4a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="72ee1e4a">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-30e697ac" data-element_type="column" data-id="30e697ac" data-settings='{"background_background":"gradient"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-background-overlay"></div>
+<div class="elementor-element elementor-element-b980c58 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-element_type="widget" data-id="b980c58" data-settings='{"navigation":"both","autoplay":"yes","pause_on_hover":"yes","pause_on_interaction":"yes","autoplay_speed":5000,"infinite":"yes","speed":500}' data-widget_type="image-carousel.default">
+<div class="elementor-widget-container">
+<div aria-label="Carrossel de imagens" aria-roledescription="carousel" class="elementor-image-carousel-wrapper swiper" dir="ltr" role="region">
+<div aria-live="off" class="elementor-image-carousel swiper-wrapper">
+<div aria-label="1 de 5" aria-roledescription="slide" class="swiper-slide" role="group"><figure class="swiper-slide-inner"><img alt="CRIANÇA 1" class="swiper-slide-image" decoding="async" src="https://focoeducativo.com.br/wp-content/uploads/2025/06/CRIANCA-1.webp"/></figure></div><div aria-label="2 de 5" aria-roledescription="slide" class="swiper-slide" role="group"><figure class="swiper-slide-inner"><img alt="CRIANÇA 2" class="swiper-slide-image" decoding="async" src="https://focoeducativo.com.br/wp-content/uploads/2025/06/CRIANCA-2.webp"/></figure></div><div aria-label="3 de 5" aria-roledescription="slide" class="swiper-slide" role="group"><figure class="swiper-slide-inner"><img alt="CRIANÇA 3" class="swiper-slide-image" decoding="async" src="https://focoeducativo.com.br/wp-content/uploads/2025/06/CRIANCA-3.webp"/></figure></div><div aria-label="4 de 5" aria-roledescription="slide" class="swiper-slide" role="group"><figure class="swiper-slide-inner"><img alt="CRIANÇA 4" class="swiper-slide-image" decoding="async" src="https://focoeducativo.com.br/wp-content/uploads/2025/06/CRIANCA-4.webp"/></figure></div><div aria-label="5 de 5" aria-roledescription="slide" class="swiper-slide" role="group"><figure class="swiper-slide-inner"><img alt="CRIANÇA 5" class="swiper-slide-image" decoding="async" src="https://focoeducativo.com.br/wp-content/uploads/2025/06/CRIANCA-5.webp"/></figure></div> </div>
+<div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0">
+<i aria-hidden="true" class="eicon-chevron-left"></i> </div>
+<div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0">
+<i aria-hidden="true" class="eicon-chevron-right"></i> </div>
+<div class="swiper-pagination"></div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-6ffbc1c elementor-widget elementor-widget-heading" data-element_type="widget" data-id="6ffbc1c" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Cada página é um convite para mergulhar em <span style="color:#ed6527;font-weight:700">histórias visuais, descobrir artistas incríveis</span> e despertar a sensibilidade criativa de forma leve, educativa e profunda.
+</h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-545d23ea elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="545d23ea" data-settings='{"background_background":"classic"}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c024fae" data-element_type="column" data-id="c024fae">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-7ed793e elementor-widget elementor-widget-heading" data-element_type="widget" data-id="7ed793e" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">03 bônus exclusivos ao <span style="color:#15CD74;font-weight:00">adquirir agora</span>:</h2> </div>
+</div>
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-6e895eda elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="6e895eda">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-186bb258" data-element_type="column" data-id="186bb258">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-68b5f886 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="68b5f886" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">🎁 Bônus 01</h2> </div>
+</div>
+<div class="elementor-element elementor-element-3a2e218c elementor-widget elementor-widget-image" data-element_type="widget" data-id="3a2e218c" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-large size-large wp-image-4168" decoding="async" height="508" loading="lazy" sizes="(max-width: 636px) 100vw, 636px" src="https://focoeducativo.com.br/wp-content/uploads/2025/08/CAPA-30-OBRAS-BR.webp" srcset="https://focoeducativo.com.br/wp-content/uploads/2025/08/CAPA-30-OBRAS-BR.webp 636w, https://focoeducativo.com.br/wp-content/uploads/2025/08/CAPA-30-OBRAS-BR-300x240.webp 300w" width="636"/> </div>
+</div>
+<div class="elementor-element elementor-element-15362d80 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="15362d80" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">30 Obras Nacionais para Colorir</h2> </div>
+</div>
+<div class="elementor-element elementor-element-aa83845 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="aa83845" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Uma seleção especial com 30 obras brasileiras adaptadas para o universo infantil.
+Um jeito leve e divertido de apresentar artistas nacionais e valorizar a arte do nosso país com traços simples e educativos.</h2> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-e5096" data-element_type="column" data-id="e5096">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-46d304c0 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="46d304c0" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">🎁Bônus 02</h2> </div>
+</div>
+<div class="elementor-element elementor-element-41de5c6e elementor-widget elementor-widget-image" data-element_type="widget" data-id="41de5c6e" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-large size-large wp-image-4176" decoding="async" height="508" loading="lazy" sizes="(max-width: 636px) 100vw, 636px" src="https://focoeducativo.com.br/wp-content/uploads/2025/08/CONHECA-O-ARTISTA-CAPA.webp" srcset="https://focoeducativo.com.br/wp-content/uploads/2025/08/CONHECA-O-ARTISTA-CAPA.webp 636w, https://focoeducativo.com.br/wp-content/uploads/2025/08/CONHECA-O-ARTISTA-CAPA-300x240.webp 300w" width="636"/> </div>
+</div>
+<div class="elementor-element elementor-element-1ded3a1f elementor-widget elementor-widget-heading" data-element_type="widget" data-id="1ded3a1f" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Cartões Visuais – Conheça o Artista!</h2> </div>
+</div>
+<div class="elementor-element elementor-element-58da7ac2 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="58da7ac2" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Cartões ilustrados com informações rápidas e curiosas sobre os grandes nomes da arte.
+Ideal para usar como jogo, consulta ou exposição em casa ou na sala de aula.</h2> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-36a876a5" data-element_type="column" data-id="36a876a5">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-1b9d6b32 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="1b9d6b32" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">🎁Bônus 03</h2> </div>
+</div>
+<div class="elementor-element elementor-element-196b51c7 elementor-widget elementor-widget-image" data-element_type="widget" data-id="196b51c7" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-large size-large wp-image-1795" decoding="async" height="534" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" src="https://focoeducativo.com.br/wp-content/uploads/2024/08/MOCKUP-PRESETE-3-1-1024x683.png" srcset="https://focoeducativo.com.br/wp-content/uploads/2024/08/MOCKUP-PRESETE-3-1-1024x683.png 1024w, https://focoeducativo.com.br/wp-content/uploads/2024/08/MOCKUP-PRESETE-3-1-300x200.png 300w, https://focoeducativo.com.br/wp-content/uploads/2024/08/MOCKUP-PRESETE-3-1-768x512.png 768w, https://focoeducativo.com.br/wp-content/uploads/2024/08/MOCKUP-PRESETE-3-1.png 1500w" width="800"/> </div>
+</div>
+<div class="elementor-element elementor-element-145c98bf elementor-widget elementor-widget-heading" data-element_type="widget" data-id="145c98bf" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Mundo Colorido</h2> </div>
+</div>
+<div class="elementor-element elementor-element-1a15f03c elementor-widget elementor-widget-heading" data-element_type="widget" data-id="1a15f03c" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Dê asas à criatividade dos pequenos com o Mundo Colorido! Perfeito para incentivar a expressão artística das crianças, permitindo que elas pintem e explorem um mundo de cores e fantasia.</h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-5a95a761 elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="5a95a761" data-settings='{"background_background":"classic"}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-20da3d0" data-element_type="column" data-id="20da3d0" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-8d1dd88 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="8d1dd88" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Como funciona:</h2> </div>
+</div>
+<div class="elementor-element elementor-element-2e974e25 elementor-position-top elementor-position-top elementor-widget elementor-widget-image-box" data-element_type="widget" data-id="2e974e25" data-widget_type="image-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img alt="" class="attachment-full size-full wp-image-1727" decoding="async" height="512" loading="lazy" sizes="(max-width: 512px) 100vw, 512px" src="https://focoeducativo.com.br/wp-content/uploads/2024/08/marketing-de-email.png" srcset="https://focoeducativo.com.br/wp-content/uploads/2024/08/marketing-de-email.png 512w, https://focoeducativo.com.br/wp-content/uploads/2024/08/marketing-de-email-300x300.png 300w, https://focoeducativo.com.br/wp-content/uploads/2024/08/marketing-de-email-150x150.png 150w" width="512"/></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Chega no seu e-mail</h3><p class="elementor-image-box-description">As atividades são todas 100% em PDF, após o pagamento você recebe imediatamente o link de acesso no seu e-mail e tem acesso vitalício e atualizações.</p></div></div> </div>
+</div>
+<div class="elementor-element elementor-element-414934b5 elementor-position-top elementor-position-top elementor-widget elementor-widget-image-box" data-element_type="widget" data-id="414934b5" data-widget_type="image-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img alt="" class="attachment-full size-full wp-image-1728" decoding="async" height="512" loading="lazy" sizes="(max-width: 512px) 100vw, 512px" src="https://focoeducativo.com.br/wp-content/uploads/2024/08/impressora.png" srcset="https://focoeducativo.com.br/wp-content/uploads/2024/08/impressora.png 512w, https://focoeducativo.com.br/wp-content/uploads/2024/08/impressora-300x300.png 300w, https://focoeducativo.com.br/wp-content/uploads/2024/08/impressora-150x150.png 150w" width="512"/></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Você Imprime</h3><p class="elementor-image-box-description">O material é todo dividido em módulos temáticas. Assim você pode imprimir quantas vezes quiser e como desejar na sua casa.</p></div></div> </div>
+</div>
+<div class="elementor-element elementor-element-307fd7a9 elementor-position-top elementor-position-top elementor-widget elementor-widget-image-box" data-element_type="widget" data-id="307fd7a9" data-widget_type="image-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img alt="" class="attachment-full size-full wp-image-1730" decoding="async" height="512" loading="lazy" sizes="(max-width: 512px) 100vw, 512px" src="https://focoeducativo.com.br/wp-content/uploads/2024/08/corte-de-papel.png" srcset="https://focoeducativo.com.br/wp-content/uploads/2024/08/corte-de-papel.png 512w, https://focoeducativo.com.br/wp-content/uploads/2024/08/corte-de-papel-300x300.png 300w, https://focoeducativo.com.br/wp-content/uploads/2024/08/corte-de-papel-150x150.png 150w" width="512"/></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Hora de Colorir <span style="color:#463C32;font-weight:700">(05 a 15 minutos por dia)</span></h3><p class="elementor-image-box-description">É hora de colorir, aprender e explorar o universo da arte de forma leve e divertida!</p></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-2ff458c0 elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="2ff458c0" data-settings='{"background_background":"classic"}'>
+<div class="elementor-background-overlay"></div>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6524281a" data-element_type="column" data-id="6524281a">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-56c37ada elementor-widget elementor-widget-heading" data-element_type="widget" data-id="56c37ada" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Veja tudo que você irá receber:</h2> </div>
+</div>
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-50689a32 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="50689a32" data-settings='{"background_background":"classic","shape_divider_top":"arrow"}'>
+<div class="elementor-background-overlay"></div>
+<div aria-hidden="true" class="elementor-shape elementor-shape-top" data-negative="false">
+<svg preserveaspectratio="none" viewbox="0 0 700 10" xmlns="http://www.w3.org/2000/svg">
+<path class="elementor-shape-fill" d="M350,10L340,0h20L350,10z"></path>
+</svg> </div>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-3b5ef7e0" data-element_type="column" data-id="3b5ef7e0">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-764bdada elementor-align-center elementor-mobile-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-element_type="widget" data-id="764bdada" data-widget_type="icon-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-icon-list-items">
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="far fa-check-circle"></i> </span>
+<span class="elementor-icon-list-text">60 obras clássicas para colorir</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-6604db5f elementor-align-center elementor-mobile-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-element_type="widget" data-id="6604db5f" data-widget_type="icon-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-icon-list-items">
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="far fa-check-circle"></i> </span>
+<span class="elementor-icon-list-text">Bônus 01: 30 Obras Nacionais para Colorir</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-262ab412 elementor-align-center elementor-mobile-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-element_type="widget" data-id="262ab412" data-widget_type="icon-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-icon-list-items">
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="far fa-check-circle"></i> </span>
+<span class="elementor-icon-list-text">Bônus 02: Cartões Visuais - Conheça o Artista!</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-7684fa10 elementor-align-center elementor-mobile-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-element_type="widget" data-id="7684fa10" data-widget_type="icon-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-icon-list-items">
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="far fa-check-circle"></i> </span>
+<span class="elementor-icon-list-text">Bônus 03: Mundo Colorido</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-7031ad20 elementor-align-center elementor-mobile-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-element_type="widget" data-id="7031ad20" data-widget_type="icon-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-icon-list-items">
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="far fa-check-circle"></i> </span>
+<span class="elementor-icon-list-text">Combo com mais de 200 atividades</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-7a13ffc6 elementor-align-center elementor-mobile-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-element_type="widget" data-id="7a13ffc6" data-widget_type="icon-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-icon-list-items">
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="far fa-check-circle"></i> </span>
+<span class="elementor-icon-list-text">Acesso imediato e vitalício ao material</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-52fcc4 elementor-align-center elementor-mobile-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-element_type="widget" data-id="52fcc4" data-widget_type="icon-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-icon-list-items">
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="far fa-check-circle"></i> </span>
+<span class="elementor-icon-list-text">Atualizações dos materiais</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-5b7ae62e elementor-align-center elementor-mobile-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-element_type="widget" data-id="5b7ae62e" data-widget_type="icon-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-icon-list-items">
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="far fa-check-circle"></i> </span>
+<span class="elementor-icon-list-text">Formato 100% digital em PDF pronto para impressão </span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-4cd9d077 elementor-align-center elementor-mobile-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-element_type="widget" data-id="4cd9d077" data-widget_type="icon-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-icon-list-items">
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="far fa-check-circle"></i> </span>
+<span class="elementor-icon-list-text">Material único e exclusivo</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-7f855246 elementor-align-center elementor-mobile-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-element_type="widget" data-id="7f855246" data-widget_type="icon-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-icon-list-items">
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="far fa-check-circle"></i> </span>
+<span class="elementor-icon-list-text">Suporte qualificado</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-7ac42fe0 elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="7ac42fe0" data-settings='{"background_background":"classic"}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4e460116" data-element_type="column" data-id="4e460116">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-76f6db0e elementor-widget elementor-widget-heading" data-element_type="widget" data-id="76f6db0e" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Criatividade e cultura <span style="color:#15CD74;font-weight:00">VALEM MAIS</span> que qualquer tela!
+
+
+
+</h2> </div>
+</div>
+<div class="elementor-element elementor-element-30d6f0a5 elementor-widget elementor-widget-image" data-element_type="widget" data-id="30d6f0a5" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-large size-large wp-image-3869" decoding="async" height="534" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" src="https://focoeducativo.com.br/wp-content/uploads/2025/06/Sem-Titulo-1-1024x683.webp" srcset="https://focoeducativo.com.br/wp-content/uploads/2025/06/Sem-Titulo-1-1024x683.webp 1024w, https://focoeducativo.com.br/wp-content/uploads/2025/06/Sem-Titulo-1-300x200.webp 300w, https://focoeducativo.com.br/wp-content/uploads/2025/06/Sem-Titulo-1-768x512.webp 768w, https://focoeducativo.com.br/wp-content/uploads/2025/06/Sem-Titulo-1.webp 1536w" width="800"/> </div>
+</div>
+<div class="elementor-element elementor-element-681b2c80 elementor-widget elementor-widget-menu-anchor" data-element_type="widget" data-id="681b2c80" data-widget_type="menu-anchor.default">
+<div class="elementor-widget-container">
+<div class="elementor-menu-anchor" id="comprar"></div>
+</div>
+</div>
+<div class="elementor-element elementor-element-c6c68c0 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="c6c68c0" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Os materiais separados custariam R$97,00</h2> </div>
+</div>
+<div class="elementor-element elementor-element-31aaa3d8 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="31aaa3d8" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Mas, somente nesta oferta, o valor promocional que você irá investir hoje é apenas:</h2> </div>
+</div>
+<div class="elementor-element elementor-element-2508f6c6 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="2508f6c6" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">De <b><del>R$97,90</del></b> por</h2> </div>
+</div>
+<div class="elementor-element elementor-element-1162c49e elementor-widget elementor-widget-heading" data-element_type="widget" data-id="1162c49e" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">R$29,90</h2> </div>
+</div>
+<div class="elementor-element elementor-element-3d6063d7 elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button" data-element_type="widget" data-id="3d6063d7" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-sm" href="https://pay.hotmart.com/F100220421H?checkoutMode=10">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">COMPRAR AGORA!</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-4b8f811d elementor-widget elementor-widget-image" data-element_type="widget" data-id="4b8f811d" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-large size-large wp-image-1568" decoding="async" height="100" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" src="https://focoeducativo.com.br/wp-content/uploads/2024/08/Selo-Compra.webp" srcset="https://focoeducativo.com.br/wp-content/uploads/2024/08/Selo-Compra.webp 1024w, https://focoeducativo.com.br/wp-content/uploads/2024/08/Selo-Compra-300x38.webp 300w, https://focoeducativo.com.br/wp-content/uploads/2024/08/Selo-Compra-768x96.webp 768w" width="800"/> </div>
+</div>
+<div class="elementor-element elementor-element-1d952114 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="1d952114" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Último dia com <span style="color:#DD1111;font-weight:700">DESCONTO</span> do <b>Pequenos Artistas</b>.
+</h2> </div>
+</div>
+<div class="elementor-element elementor-element-6e07243f elementor-widget elementor-widget-heading" data-element_type="widget" data-id="6e07243f" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">A partir <span style="color:#DD1111;font-weight:700">DE AMANHÃ</span>, o preço será ajustado.</h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-654b3ab6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="654b3ab6" data-settings='{"background_background":"classic"}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-41ef9987" data-element_type="column" data-id="41ef9987">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-83d499 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="83d499" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Ficou com dúvidas?
+Converse com a gente no WhatsApp!</h2> </div>
+</div>
+<div class="elementor-element elementor-element-4ad082ac elementor-widget elementor-widget-image" data-element_type="widget" data-id="4ad082ac" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://api.whatsapp.com/send?1=pt_BR&amp;phone=558999756373">
+<img alt="" class="attachment-large size-large wp-image-2537" decoding="async" height="256" loading="lazy" sizes="(max-width: 738px) 100vw, 738px" src="https://focoeducativo.com.br/wp-content/uploads/2024/10/botao-whatsapp-do-prime-gourmet-1-2.png" srcset="https://focoeducativo.com.br/wp-content/uploads/2024/10/botao-whatsapp-do-prime-gourmet-1-2.png 738w, https://focoeducativo.com.br/wp-content/uploads/2024/10/botao-whatsapp-do-prime-gourmet-1-2-300x104.png 300w" width="738"/> </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-55222ec3 elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="55222ec3" data-settings='{"background_background":"classic"}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5013d7bb" data-element_type="column" data-id="5013d7bb">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-33de84c9 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="33de84c9" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">GARANTIA INCONDICIONAL</h2> </div>
+</div>
+<div class="elementor-element elementor-element-7c6f9bc3 elementor-widget elementor-widget-image" data-element_type="widget" data-id="7c6f9bc3" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-large size-large wp-image-1226" decoding="async" height="800" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" src="https://focoeducativo.com.br/wp-content/uploads/2024/07/SELO-BLOCO-08-3.png" srcset="https://focoeducativo.com.br/wp-content/uploads/2024/07/SELO-BLOCO-08-3.png 1024w, https://focoeducativo.com.br/wp-content/uploads/2024/07/SELO-BLOCO-08-3-300x300.png 300w, https://focoeducativo.com.br/wp-content/uploads/2024/07/SELO-BLOCO-08-3-150x150.png 150w, https://focoeducativo.com.br/wp-content/uploads/2024/07/SELO-BLOCO-08-3-768x768.png 768w" width="800"/> </div>
+</div>
+<div class="elementor-element elementor-element-7a427f03 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="7a427f03" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Você pode comprar com segurança, tem até 7 dias para conhecer o produto e usar e caso seja diferente do que esperava pode solicitar devolução.</h2> </div>
+</div>
+<div class="elementor-element elementor-element-2be93a73 elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button" data-element_type="widget" data-id="2be93a73" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-sm" href="https://pay.hotmart.com/F100220421H?checkoutMode=10">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">QUERO AGORA!</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-2c19f1da elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="2c19f1da" data-settings='{"background_background":"classic"}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-378ca894" data-element_type="column" data-id="378ca894">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-44e0338e elementor-widget elementor-widget-heading" data-element_type="widget" data-id="44e0338e" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Perguntas Frequentes:</h2> </div>
+</div>
+<div class="elementor-element elementor-element-670c848b elementor-widget elementor-widget-toggle" data-element_type="widget" data-id="670c848b" data-widget_type="toggle.default">
+<div class="elementor-widget-container">
+<div class="elementor-toggle">
+<div class="elementor-toggle-item">
+<div aria-controls="elementor-tab-content-1721" aria-expanded="false" class="elementor-tab-title" data-tab="1" id="elementor-tab-title-1721" role="button">
+<span aria-hidden="true" class="elementor-toggle-icon elementor-toggle-icon-left">
+<span class="elementor-toggle-icon-closed"><i class="fas fa-caret-square-down"></i></span>
+<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-square-up"></i></span>
+</span>
+<a class="elementor-toggle-title" tabindex="0">A partir de que idade as crianças podem usar o material?</a>
+</div>
+<div aria-labelledby="elementor-tab-title-1721" class="elementor-tab-content elementor-clearfix" data-tab="1" id="elementor-tab-content-1721" role="region"><p class="R920X _5wA-D d0eTW vC2ou -oJ0G">A partir dos 3 anos. As atividades são intuitivas e podem ser feitas com ou sem ajuda de um adulto.</p></div>
+</div>
+<div class="elementor-toggle-item">
+<div aria-controls="elementor-tab-content-1722" aria-expanded="false" class="elementor-tab-title" data-tab="2" id="elementor-tab-title-1722" role="button">
+<span aria-hidden="true" class="elementor-toggle-icon elementor-toggle-icon-left">
+<span class="elementor-toggle-icon-closed"><i class="fas fa-caret-square-down"></i></span>
+<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-square-up"></i></span>
+</span>
+<a class="elementor-toggle-title" tabindex="0">Posso usar em sala de aula?</a>
+</div>
+<div aria-labelledby="elementor-tab-title-1722" class="elementor-tab-content elementor-clearfix" data-tab="2" id="elementor-tab-content-1722" role="region"><p class="R920X _5wA-D d0eTW vC2ou -oJ0G">Sim! O material é ótimo para escolas, atividades complementares e projetos interdisciplinares alinhados à BNCC.</p></div>
+</div>
+<div class="elementor-toggle-item">
+<div aria-controls="elementor-tab-content-1723" aria-expanded="false" class="elementor-tab-title" data-tab="3" id="elementor-tab-title-1723" role="button">
+<span aria-hidden="true" class="elementor-toggle-icon elementor-toggle-icon-left">
+<span class="elementor-toggle-icon-closed"><i class="fas fa-caret-square-down"></i></span>
+<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-square-up"></i></span>
+</span>
+<a class="elementor-toggle-title" tabindex="0">Posso imprimir ou usar no tablet?</a>
+</div>
+<div aria-labelledby="elementor-tab-title-1723" class="elementor-tab-content elementor-clearfix" data-tab="3" id="elementor-tab-content-1723" role="region"><p>Sim! O conteúdo foi criado em formato A4 horizontal, ideal tanto para impressão quanto para uso digital (com caneta touch ou app de desenho).</p></div>
+</div>
+<div class="elementor-toggle-item">
+<div aria-controls="elementor-tab-content-1724" aria-expanded="false" class="elementor-tab-title" data-tab="4" id="elementor-tab-title-1724" role="button">
+<span aria-hidden="true" class="elementor-toggle-icon elementor-toggle-icon-left">
+<span class="elementor-toggle-icon-closed"><i class="fas fa-caret-square-down"></i></span>
+<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-square-up"></i></span>
+</span>
+<a class="elementor-toggle-title" tabindex="0">Tem explicação sobre cada obra?</a>
+</div>
+<div aria-labelledby="elementor-tab-title-1724" class="elementor-tab-content elementor-clearfix" data-tab="4" id="elementor-tab-content-1724" role="region"><p class="R920X _5wA-D d0eTW vC2ou -oJ0G">Sim! Cada ilustração vem acompanhada do nome da obra, nome do artista e uma curiosidade adaptada para linguagem infantil.</p></div>
+</div>
+<div class="elementor-toggle-item">
+<div aria-controls="elementor-tab-content-1725" aria-expanded="false" class="elementor-tab-title" data-tab="5" id="elementor-tab-title-1725" role="button">
+<span aria-hidden="true" class="elementor-toggle-icon elementor-toggle-icon-left">
+<span class="elementor-toggle-icon-closed"><i class="fas fa-caret-square-down"></i></span>
+<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-square-up"></i></span>
+</span>
+<a class="elementor-toggle-title" tabindex="0">Posso reutilizar o material com outras crianças ou turmas?</a>
+</div>
+<div aria-labelledby="elementor-tab-title-1725" class="elementor-tab-content elementor-clearfix" data-tab="5" id="elementor-tab-content-1725" role="region"><p class="R920X _5wA-D d0eTW vC2ou -oJ0G">Sim! Depois da compra, o material é seu. Pode ser reimpresso ou usado com quantas crianças quiser (desde que não seja revendido).</p></div>
+</div>
+<div class="elementor-toggle-item">
+<div aria-controls="elementor-tab-content-1726" aria-expanded="false" class="elementor-tab-title" data-tab="6" id="elementor-tab-title-1726" role="button">
+<span aria-hidden="true" class="elementor-toggle-icon elementor-toggle-icon-left">
+<span class="elementor-toggle-icon-closed"><i class="fas fa-caret-square-down"></i></span>
+<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-square-up"></i></span>
+</span>
+<a class="elementor-toggle-title" tabindex="0">Quanto tempo por dia é ideal para usar?</a>
+</div>
+<div aria-labelledby="elementor-tab-title-1726" class="elementor-tab-content elementor-clearfix" data-tab="6" id="elementor-tab-content-1726" role="region"><p class="R920X _5wA-D d0eTW vC2ou -oJ0G">De 5 a 15 minutos por dia já são suficientes para estimular foco, criatividade e repertório artístico.</p></div>
+</div>
+<div class="elementor-toggle-item">
+<div aria-controls="elementor-tab-content-1727" aria-expanded="false" class="elementor-tab-title" data-tab="7" id="elementor-tab-title-1727" role="button">
+<span aria-hidden="true" class="elementor-toggle-icon elementor-toggle-icon-left">
+<span class="elementor-toggle-icon-closed"><i class="fas fa-caret-square-down"></i></span>
+<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-square-up"></i></span>
+</span>
+<a class="elementor-toggle-title" tabindex="0">Como recebo o material?</a>
+</div>
+<div aria-labelledby="elementor-tab-title-1727" class="elementor-tab-content elementor-clearfix" data-tab="7" id="elementor-tab-content-1727" role="region"><p class="R920X _5wA-D d0eTW vC2ou -oJ0G">Você recebe tudo por e-mail, logo após a confirmação da compra, em formato PDF para baixar e usar imediatamente.</p></div>
+</div>
+<div class="elementor-toggle-item">
+<div aria-controls="elementor-tab-content-1728" aria-expanded="false" class="elementor-tab-title" data-tab="8" id="elementor-tab-title-1728" role="button">
+<span aria-hidden="true" class="elementor-toggle-icon elementor-toggle-icon-left">
+<span class="elementor-toggle-icon-closed"><i class="fas fa-caret-square-down"></i></span>
+<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-square-up"></i></span>
+</span>
+<a class="elementor-toggle-title" tabindex="0">Tem garantia?</a>
+</div>
+<div aria-labelledby="elementor-tab-title-1728" class="elementor-tab-content elementor-clearfix" data-tab="8" id="elementor-tab-content-1728" role="region"><p class="R920X _5wA-D d0eTW vC2ou -oJ0G">Sim! Se por qualquer motivo você não ficar satisfeito, oferecemos garantia de 7 dias após a compra para solicitar reembolso.</p></div>
+</div>
+<div class="elementor-toggle-item">
+<div aria-controls="elementor-tab-content-1729" aria-expanded="false" class="elementor-tab-title" data-tab="9" id="elementor-tab-title-1729" role="button">
+<span aria-hidden="true" class="elementor-toggle-icon elementor-toggle-icon-left">
+<span class="elementor-toggle-icon-closed"><i class="fas fa-caret-square-down"></i></span>
+<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-square-up"></i></span>
+</span>
+<a class="elementor-toggle-title" tabindex="0">Como posso entrar em contato com vocês?</a>
+</div>
+<div aria-labelledby="elementor-tab-title-1729" class="elementor-tab-content elementor-clearfix" data-tab="9" id="elementor-tab-content-1729" role="region"><p>Você pode entrar em contato conosco através dos seguintes canais:</p><p>E-mail: focoeducativoo@gmail.com<br>WhatsApp: (89) 99975-6373<br>Instagram: @focoeducativoo<br>Facebook: Foco Educativo</br></br></br></p><p>Estamos à disposição para ajudar com qualquer dúvida!</p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-3b542386 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="3b542386" data-settings='{"background_background":"classic"}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6bd12a01" data-element_type="column" data-id="6bd12a01">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-3918c585 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="3918c585" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Foco Educativo © 2025 - Todos os direitos reservados.</h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/hello-elementor\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+<script id="hello-theme-frontend-js" src="https://focoeducativo.com.br/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.0.0"></script>
+<script id="elementor-webpack-runtime-js" src="https://focoeducativo.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.31.2"></script>
+<script id="elementor-frontend-modules-js" src="https://focoeducativo.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.31.2"></script>
+<script id="jquery-ui-core-js" src="https://focoeducativo.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartilhar no Facebook","shareOnTwitter":"Compartilhar no Twitter","pinIt":"Fixar","download":"Baixar","downloadImage":"Baixar imagem","fullscreen":"Tela cheia","zoom":"Zoom","share":"Compartilhar","playVideo":"Reproduzir v\u00eddeo","previous":"Anterior","next":"Pr\u00f3ximo","close":"Fechar","a11yCarouselPrevSlideMessage":"Slide anterior","a11yCarouselNextSlideMessage":"Pr\u00f3ximo slide","a11yCarouselFirstSlideMessage":"Este \u00e9 o primeiro slide","a11yCarouselLastSlideMessage":"Este \u00e9 o \u00faltimo slide","a11yCarouselPaginationBulletMessage":"Ir para o slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Dispositivos m\u00f3veis no modo retrato","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Dispositivos m\u00f3veis no modo paisagem","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet no modo retrato","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet no modo paisagem","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Notebook","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Tela ampla (widescreen)","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":true},"version":"3.31.2","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"e_element_cache":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"page-transitions":true,"notes":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/focoeducativo.com.br\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/focoeducativo.com.br\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/focoeducativo.com.br\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"ec2136439c"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_footer_logo_type":"logo"},"post":{"id":4569,"title":"Pequenos%20Artistas%20II%20%E2%80%93%20Foco%20Educativo","excerpt":"","featuredImage":false}};
+</script>
+<script id="elementor-frontend-js" src="https://focoeducativo.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.31.2"></script>
+<script id="swiper-js" src="https://focoeducativo.com.br/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5"></script>
+<script id="elementor-pro-webpack-runtime-js" src="https://focoeducativo.com.br/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.7.3"></script>
+<script id="wp-hooks-js" src="https://focoeducativo.com.br/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6"></script>
+<script id="wp-i18n-js" src="https://focoeducativo.com.br/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/focoeducativo.com.br\/wp-admin\/admin-ajax.php","nonce":"dee2d56050","urls":{"assets":"https:\/\/focoeducativo.com.br\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/focoeducativo.com.br\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"pt_BR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/focoeducativo.com.br\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script id="elementor-pro-frontend-js" src="https://focoeducativo.com.br/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.7.3"></script>
+<script id="pro-preloaded-elements-handlers-js" src="https://focoeducativo.com.br/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.7.3"></script>
+</body>
+</html>
